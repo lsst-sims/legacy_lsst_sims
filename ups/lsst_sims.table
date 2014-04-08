@@ -1,0 +1,3 @@
+setupRequired(sims_operations_maf)
+setupRequired(sims_catalogs_generation)
+setupRequired(sims_catalogs_measures)
