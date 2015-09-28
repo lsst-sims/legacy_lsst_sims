@@ -1,5 +1,6 @@
 setupRequired(sims_maf)
 setupRequired(sims_GalSimInterface)
+setupRequired(sncosmo)
 setupRequired(sims_catUtils)
 setupRequired(sims_catalogs_generation)
 setupRequired(sims_catalogs_measures)
