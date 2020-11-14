@@ -1,5 +1,4 @@
 setupRequired(sims_maf)
-setupRequired(sims_GalSimInterface)
 setupRequired(sims_catUtils)
 setupRequired(sims_catalogs)
 setupRequired(sims_sed_library)
