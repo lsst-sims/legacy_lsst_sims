@@ -1,0 +1,6 @@
+README
+
+This is the metapackage that was used to build lsst_sims, pre 2021 (lsst_sims will generally build with lsst DM packages pre w_2021_19 or so, but is likely to fail with any build later than that).
+
+lsst_sims is now deprecated
+Please see rubin_sim (https://github.com/lsst/rubin_sim) instead.
